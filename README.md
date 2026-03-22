@@ -1,4 +1,4 @@
-# SIGNAL
+# Signal
 
 A wireless call-button system that connects physical buttons to mobile apps through a cloud backend.
 
